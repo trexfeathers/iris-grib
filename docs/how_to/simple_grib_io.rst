@@ -1,3 +1,5 @@
+.. _simple_load_save:
+
 Simple GRIB Loading and Saving with Iris
 ========================================
 
